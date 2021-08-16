@@ -1,8 +1,15 @@
 ### Hi there I am Prema 👋
 
+* Passionate about learning **full stack Applications** and building them in simpler way.
+* Currently working on **Front End (React JS)**
 
+### Tech Stack
+* JavaScript | ES6
+* ReactJS | Bootstrap | HTML | CSS
+* GitHub
 
 <!--
+
 **PremaYT/PremaYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
